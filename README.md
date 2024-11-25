@@ -73,8 +73,12 @@ While the project is written in Java, the following object-oriented programming 
 ---
 
 ## 👪 Integration of SDG 4: Quality Education
+<div>
+  <img src="https://github.com/itsianfrane/OOPWizard/blob/main/images/sdg.png" alt="SDG Logo" width="1000" height="200"> 
 
-This project contributes to **SDG 4: Quality Education** by providing an interactive and accessible platform for learning and testing key programming concepts. It helps students reinforce their understanding of Object-Oriented Programming in Java and promotes educational growth in the field of computer science.
+</div>
+
+This project contributes to SDG 4: Quality Education by providing an interactive and accessible platform for learning and testing key programming concepts. It helps students reinforce their understanding of Object-Oriented Programming in Java and promotes educational growth in the field of computer science. The quiz-based format encourages self-paced learning, allowing students to assess their knowledge and identify areas where further improvement is needed. With a focus on essential OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction, the project helps students not only to learn these concepts but also to apply them in real-world scenarios. This deepens their understanding and prepares them for more advanced topics in computer programming.
 
 ---
 
