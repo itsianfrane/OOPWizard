@@ -85,7 +85,7 @@ This project contributes to SDG 4: Quality Education by providing an interactive
 ## ⚙️ System Requirements
 
 - Java Development Kit (JDK) version 8 or higher.
-- A Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
+- A Java IDE such as VSCode, IntelliJ IDEA, Eclipse, or NetBeans.
 - Operating System: Windows, macOS, or Linux.
 
 ---
