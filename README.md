@@ -95,7 +95,7 @@ To run the OOP Wizard:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/OOPWizard.git
+   git clone https://github.com/itsianfrane/OOPWizard.git
 2. Navigate to the project directory:
    ```bash
    cd OOPWizard
