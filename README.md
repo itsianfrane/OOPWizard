@@ -127,6 +127,6 @@ Answering Questions: For each question, the user selects the appropriate answer.
 
 > To my **crushiecakes**, thank you for being my daily source of joy and inspiration.
 
-> A special thank you goes to my professor, **Mr. Jayson R. Abratique**, for his invaluable guidance, insightful feedback, and continuous encouragement. Your mentorship has been a significant part of my growth, and I am truly grateful for your dedication and support.
+> A special thank you goes to my professor, **Mr. Jayson Abratique**, for his invaluable guidance, insightful feedback, and continuous encouragement. Your mentorship has been a significant part of my growth, and I am truly grateful for your dedication and support.
 
 > To **all** who have been part of this journey, my heartfelt thanks.
