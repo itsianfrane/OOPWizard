@@ -60,15 +60,35 @@ While the project is written in Java, the following object-oriented programming 
 
 ### Encapsulation
 - The `QuizApp` class encapsulates the quiz logic, storing user information and questions. The details of how questions are stored and how scoring works are hidden from the user interface.
+ 
+<div>
+  <img src="https://github.com/itsianfrane/OOPWizard/blob/main/images/encapsulation.png" alt="encapsulation" width="600" height="300"> 
+
+</div>
 
 ### Polymorphism
 - The `Question` class is abstract, and the concrete class `WizardQuestion` overrides the `displayChoices()` method, demonstrating **polymorphism** in action. Different types of questions can be created and handled similarly.
 
+<div>
+  <img src="https://github.com/itsianfrane/OOPWizard/blob/main/images/polymorphism.png" alt="polymorphism" width="600" height="300"> 
+
+</div>
+
 ### Inheritance
 - The `WizardQuestion` class **inherits** from the `Question` class, utilizing the base functionality and extending it with specific question behavior.
 
+<div>
+  <img src="https://github.com/itsianfrane/OOPWizard/blob/main/images/inheritance.png" alt="inheritance" width="600" height="300"> 
+
+</div>
+
 ### Abstraction
 - The `Question` class is abstract, providing a blueprint for creating various types of questions while hiding implementation details such as how choices are displayed and validated.
+
+<div>
+  <img src="https://github.com/itsianfrane/OOPWizard/blob/main/images/abstraction.png" alt="abstraction" width="600" height="300"> 
+
+</div>
 
 ---
 
