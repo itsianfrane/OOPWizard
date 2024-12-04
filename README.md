@@ -17,7 +17,7 @@
 ## 📚 Table of Contents
 1. [🔎 Project Overview](#-project-overview)  
 2. [💻 Features](#-features)  
-3. [🧠 Python Concepts Applied](#-python-concepts-applied)  
+3. [🧠 OOP Concepts Applied](#-oop-concepts-applied)  
     - [Classes and Objects](#classes-and-objects)  
     - [Encapsulation](#encapsulation)  
     - [Polymorphism](#polymorphism)  
@@ -51,7 +51,7 @@ The program is implemented with both a command-line interface (CLI) and a graphi
 
 ---
 
-## 🧠 Python Concepts Applied
+## 🧠 OOP Concepts Applied
 
 While the project is written in Java, the following object-oriented programming principles are applied:
 
